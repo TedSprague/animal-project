@@ -1,0 +1,10 @@
+/*
+body {
+    background-image: url("../img/animal.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;    
+}
+*/
+html {
+    height: 100%;
+}

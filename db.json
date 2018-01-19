@@ -1,0 +1,16 @@
+{
+    "animals" :[
+    {
+        "name": "dog"
+    },
+    {
+        "name": "cat"
+    },
+    {
+        "name": "mouse"
+    }
+]    
+}
+
+
+
